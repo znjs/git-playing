@@ -25,3 +25,4 @@ stackTwo.push(22);
 stackTwo.push(2);
 console.log(items);
 console.log(stackOne.pop());
+console.log(stackTwo.pop());
